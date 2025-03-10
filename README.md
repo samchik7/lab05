@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lab02
 export GITHUB_USERNAME=samchik7          
 export GITHUB_EMAIL=s4gabalyan@yandex.ru   
@@ -165,3 +166,6 @@ To https://github.com/samchik7/lab02.git
 
 
 
+=======
+# lab03
+>>>>>>> 2a32019fa8b14a21dfd0f4f019dc63a33bed16da
